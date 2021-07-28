@@ -1,2 +1,1 @@
-# dio-html-instagram
-DIO - Html Instagram
+# DIO - Html Instagram
